@@ -1,24 +1,25 @@
-h2{
-    color:rgb(14, 214, 198);
+body {
+    background-color: rgb(172, 119, 255);   
 }
 
-body {
-    background-color: rgb(172, 119, 255);
+h2{
     color: white;
     font-family: Garamond;
+    font-size: 20;
     text-align: center;
 }
 
-h2{
-    color:rgb(14, 214, 198);
-}
+h3{
+    color: white;
+    font-family: Garamond;
+    font-size: 20;
+    text-align: center;
 
-h2{
-    color:rgb(14, 214, 198);
-}
-
-h2{
-    color:rgb(14, 214, 198);
+h4{
+    color: white;
+    font-family: Garamond;
+    font-size: 20;
+    text-align: center;
 }
 
 header{
