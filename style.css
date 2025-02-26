@@ -1,5 +1,5 @@
 body {
-    background-color: CCCCFF;   
+    background-color: #CCCCFF;   
 }
 h1{
     color: white;
@@ -15,7 +15,7 @@ h2{
 }
 
 h3{
-    color: 6A5ACD;
+    color: #6A5ACD;
     font-family: Lucida Handwriting;
     font-size: 75;
     text-align: center;
