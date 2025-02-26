@@ -6,32 +6,34 @@ h1{
     font-family: Brush Script MT;
     font-size: 40;
     text-align: center;
+    }
     
 h2{
     color: white;
     font-family: Brush Script MT;
     font-size: 20;
     text-align: center;
-}
+    }
 
 h3{
     color: #6A5ACD;
     font-family: Lucida Handwriting;
     font-size: 75;
     text-align: center;
+    }
 
 h4{
     color: white;
     font-family: Brush Script MT;
     font-size: 20;
     text-align: center;
-}
+    }
 
 header{
-    border-bottom: 4px dotted rgb(14, 214, 198);
+    border-bottom: 4px dotted #6A5ACD;
     }
 
 
 footer{
-    border-bottom: 4px dotted rgb(14, 214, 198);
+    border-bottom: 4px dotted #6A5ACD;
     }
