@@ -1,17 +1,9 @@
-@font-face {
-    font-family: 'Feltpen';
-    src: url('fonts/feltpen.woff2') format('woff2'),
-         url('fonts/feltpen.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'AlexBrush';
-    src: url('fonts/alexbrush.woff2') format('woff2'),
-         url('fonts/alexbrush.woff') format('woff');
+@import url('https://fontlibrary.org/face/feltpen');
+@import url('https://fontlibrary.org/pt/font/alex-brush');
 
 body {
     background-color: #CCCCF0; 
-    font-family: 'FeltpenRegular'; 
+    ont-family: 'Feltpen', sans-serif;
 }
 h1{
     color: #6A5ACD;
