@@ -1,8 +1,8 @@
 body {
-    background-color: #CCCCFF;   
+    background-color: #6A5ACD;   
 }
 h1{
-    color: #FCADDA;
+    color: #6A5ACD;
     font-family: bradley hand, cursive;
     font-size: 30;
     text-align: center;
@@ -24,17 +24,10 @@ h3{
 
 h4{
     color: white;
-    font-family: 'GreatVibesRegular';
-    font-weight: normal;
-    font-style: normal; 
+    font-family: bradley hand, cursive;
     font-size: 50;
     text-align: center;
     }
-
-header{
-    border-bottom: 4px discrete  #2ABDA9;
-    }
-
 
 footer{
     border-bottom: thick double #6A5ACD;
