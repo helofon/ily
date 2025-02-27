@@ -2,7 +2,7 @@ body {
     background-color: #CCCCFF;   
 }
 h1{
-    color: white;
+    color: #4ae6d9;
     font-family: bradley hand, cursive;
     font-size: 40;
     text-align: center;
@@ -26,13 +26,6 @@ h4{
     color: white;
     font-family: bradley hand, cursive;
     font-size: 40;
-    text-align: center;
-    }
-
-h5{
-    color: #6A5ACD;
-    font-family: bradley hand, cursive;
-    font-size: 100;
     text-align: center;
     }
 
