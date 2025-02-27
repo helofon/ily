@@ -1,5 +1,13 @@
-@import url('https://fontlibrary.org/face/FeltpenRegular');
-@import url('https://fontlibrary.org/face/AlexBrushRegular');
+@font-face {
+    font-family: 'Feltpen';
+    src: url('fonts/feltpen.woff2') format('woff2'),
+         url('fonts/feltpen.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AlexBrush';
+    src: url('fonts/alexbrush.woff2') format('woff2'),
+         url('fonts/alexbrush.woff') format('woff');
 
 body {
     background-color: #CCCCF0; 
