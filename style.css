@@ -30,17 +30,17 @@ h4{
     }
 
 h5{
-    color: white;
+    color: #6A5ACD;
     font-family: bradley hand, cursive;
-    font-size: 40;
+    font-size: 100;
     text-align: center;
     }
 
 header{
-    border-bottom: 4px dotted #6A5ACD;
+    border-bottom: 4px discrete #6A5ACD;
     }
 
 
 footer{
-    border-bottom: 4px dotted #6A5ACD;
+    border-bottom: thick double #6A5ACD;
     }
