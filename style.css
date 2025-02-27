@@ -25,6 +25,8 @@ h3{
 h4{
     color: white;
     font-family: 'GreatVibesRegular';
+    font-weight: normal;
+    font-style: normal; 
     font-size: 50;
     text-align: center;
     }
