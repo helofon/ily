@@ -1,16 +1,15 @@
 body {
-    background-color: #6A5ACD;   
+    background-color: #6A5ACD; 
+    font-family: 'GreatVibesRegular'; 
 }
 h1{
     color: #6A5ACD;
-    font-family: bradley hand, cursive;
     font-size: 30;
     text-align: center;
     }
     
 h2{
     color: white;
-    font-family: bradley hand, cursive;
     font-size: 30;
     text-align: center;
     }
@@ -24,7 +23,6 @@ h3{
 
 h4{
     color: white;
-    font-family: bradley hand, cursive;
     font-size: 50;
     text-align: center;
     }
